@@ -1,0 +1,7 @@
+{
+  "name": "Copy of New Jerusalem Church Mumbai MVP",
+  "description": "A clean, minimal, and modern website for New Jerusalem Church, Mumbai, featuring its history, beliefs, and a Spirit-led AI assistant.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
