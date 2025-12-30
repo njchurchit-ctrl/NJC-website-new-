@@ -37,7 +37,9 @@ const Contact: React.FC = () => {
                 <div>
                   <h4 className="text-xl font-bold mb-2">Inquiries</h4>
                   <p className="text-gray-400">
-                    Contact Pastor Philip Lazar for service timings and prayer requests.
+                    njchq.mumbai@gmail.com
+                    manovae@hotmail.com
+                    draja382@zoho.com.
                   </p>
                 </div>
               </div>
@@ -73,8 +75,8 @@ const Contact: React.FC = () => {
             <h3 className="text-2xl font-bold mb-6">Service Schedule</h3>
             <div className="space-y-4">
               <div className="flex justify-between border-b border-white/10 pb-4">
-                <span className="text-gray-400">Sunday Morning Worship</span>
-                <span className="font-semibold">Morning</span>
+                <span className="text-gray-400">Sunday Worship</span>
+                <span className="font-semibold">Morning 10 A.M.</span>
               </div>
               <div className="flex justify-between border-b border-white/10 pb-4">
                 <span className="text-gray-400">Weekly Prayer Meeting</span>
@@ -82,11 +84,11 @@ const Contact: React.FC = () => {
               </div>
               <div className="flex justify-between border-b border-white/10 pb-4">
                 <span className="text-gray-400">Youth Fellowship</span>
-                <span className="font-semibold">Saturdays</span>
+                <span className="font-semibold">Every 2nd Sunday</span>
               </div>
               <div className="flex justify-between border-b border-white/10 pb-4">
                 <span className="text-gray-400">Bible Study</span>
-                <span className="font-semibold">Contact Pr. Philip</span>
+                <span className="font-semibold">Every Wednesday</span>
               </div>
             </div>
             <div className="mt-8 p-6 bg-[#B19470]/10 rounded-2xl border border-[#B19470]/20">
